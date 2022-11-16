@@ -45,7 +45,7 @@ patel.sit@norhtheastern.neu.edu
 patel.sit@login.discovery.neu.edu
 
 # Acknowledgements
-BINF6309-module05-Professor Quan Wan.
+Professor Quan Wan.
 
 # References
 R;, L. H. D. (n.d.). Fast and accurate short read alignment with Burrows-wheeler transform. Bioinformatics (Oxford, England). Retrieved October 28, 2022, from https://pubmed.ncbi.nlm.nih.gov/19451168/ 

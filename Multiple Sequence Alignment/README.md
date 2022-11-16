@@ -3,6 +3,7 @@ Sita Karan Patel module06-sitakaranpatel-Module 6 Practice: Multiple Sequence Al
 
 # Methods
 The module Module 6 Practice: Multiple Sequence Alignment  consists of scripts:
+
 -module6-sitakaranpatel/translate_APOE.py
 
 -module6-sitakaranpatel/clustalAlign.sh
